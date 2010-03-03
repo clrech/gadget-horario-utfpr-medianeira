@@ -1,6 +1,6 @@
 #summary Frequently Asked Questions
 
-<wiki:toc max_depth="1" />
+<wiki:toc max_depth="2" />
 
 == O que este gagdet faz? ==
 Teste
