@@ -1,6 +1,5 @@
 #summary Frequently Asked Questions
-
 <wiki:toc max_depth="2" />
 
-== O que este gagdet faz? ==
-Teste
+== Em quais recipientes este gadget pode ser usado? ==
+Por enquanto ele funciona apenas no [http://www.google.com/ig?hl=pt_BR IGoogle].
