@@ -1,0 +1,17 @@
+<messagebundle>
+	<msg name="titulo">Horários da UTFPR</msg>
+	<msg name="descricao">Confira os horários das suas aulas na UTFPR Campus
+		Medianeira. Escolha uma ou mais turmas em que você estuda e tenha
+		acesso a todos os seus horários em um só lugar.</msg>
+	<msg name="escolherTurma">Escolha uma ou mais turmas</msg>
+	<msg name="minhasTurmas">Minhas turmas</msg>
+	<msg name="confirmacaoRemoverTurma">Deseja realmente remover?</msg>
+	<msg name="removerTurma">Remover turma</msg>
+	<msg name="erroListarTurmas">Não foi possível recuperar a lista de turmas</msg>
+	<msg name="erroRecuperarHorario">Não foi possível recuperar o horario da turma</msg>
+	<msg name="tenteMaisTarde">Tente novamente mais tarde</msg>
+	<msg name="avisoLegal">Este gadget não possui nenhuma ligação com a UTFPR.&lt;br
+		/&gt;Os dados são atualizados a cada hora. &lt;a
+		href="http://www.md.utfpr.edu.br/Professores2/hor12010/turmas/turmas.htm"&gt;Confira
+		os horários&lt;/a&gt; no site da UTFPR.</msg>
+</messagebundle>

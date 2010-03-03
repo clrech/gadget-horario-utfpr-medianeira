@@ -1,0 +1,117 @@
+body {
+	font-size: 14px;
+}
+
+/* Aba "Turmas" */
+#abaTurmas {
+	margin-top: 10px;
+}
+
+#turmas {
+	font-weight: bold;
+	margin-left: 5px;
+}
+
+#abaTurmas button {
+	background-color: #F7C300;
+	border: 1px solid #000000;
+	margin-left: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+
+#textoSelecionar,#selectTurmas {
+	float: left;
+}
+
+#tabelaTurmas {
+	border: 1px solid #F7C300;
+	border-collapse: collapse;
+	margin: auto;
+	margin-top: 10px;
+}
+
+#tabelaTurmas thead th {
+	background-color: #F7C300;
+	font-size: 12px;
+	padding: 5px;
+	text-align: center;
+}
+
+#tabelaTurmas tr:nth-child (2n) {
+	background-color: #F6F6F6;
+}
+
+#tabelaTurmas tr:hover {
+	background-color: #F7C300 !important;
+}
+
+#tabelaTurmas td {
+	padding: 2px;
+}
+
+#tabelaTurmas button {
+	background-color: #FFD9D9;
+	border: 1px solid #FF0000;
+	color: #FF0000;
+	cursor: pointer;
+	margin-left: 10px;
+	padding: 0;
+}
+
+/* Abas dos horarios */
+div.horario table {
+	border-collapse: collapse;
+	font-size: 10px;
+	margin: auto;
+	margin-top: 10px;
+	width: 90%;
+}
+
+div.horario table tr:hover {
+	background-color: #F7C300 !important;
+}
+
+div.horario table tr:nth-child (2n) {
+	background-color: #F6F6F6;
+}
+
+div.horario table td {
+	text-align: center;
+}
+
+#avisoLegal {
+	font-size: 9px;
+	color: #999999;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+
+/* Elemento "MiniMessage" */
+.mmlib_table {
+	background-color: #F7C300;
+	border: 1px solid #000000;
+	font-size: 11px;
+	font-weight: bold;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	padding: 2px;
+	text-align: center;
+	width: 95%;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+
+.tablib_table {
+	background-color: #F7C300;
+	background-image:
+		url(http://gadgets-utfpr.appspot.com/imagens/fundo-tabela.png);
+	background-position: 3px 3px;
+	background-repeat: no-repeat;
+}
+
+.tablib_selected {
+	background-color: #FFFFFF;
+	color: #000000;
+}
