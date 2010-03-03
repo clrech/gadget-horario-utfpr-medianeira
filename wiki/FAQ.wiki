@@ -10,7 +10,7 @@ Ele foi testado no [http://www.google.com/ig?hl=pt_BR IGoogle] ([http://www.goog
   * Vá até o [https://mail.google.com/mail/?shva=1#settings/labs Gmail Labs].
   * Habilite o *Adicionar qualquer gadget pelo URL* (Add any gadget by URL).
   * Vá até a [https://mail.google.com/mail/?shva=1#settings/gadgets aba de Gadgets].
-  * Adicione a URL *http://gadgets-utfpr.appspot.com/gadget.xml*
+  * Adicione a URL *http://gadgets-utfpr.appspot.com/gadget.xml *
   * Pronto! Clicando no título do gadget você pode maximizá-lo.
 
 == Os horários são atualizados em tempo real? ==
