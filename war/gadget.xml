@@ -6,16 +6,18 @@
 		thumbnail="http://gadgets-utfpr.appspot.com/imagens/thumbnail.png"
 		title="__MSG_titulo__" title_url="http://code.google.com/p/gadget-horario-utfpr-medianeira/">
 		<Locale messages="http://gadgets-utfpr.appspot.com/i18n/ALL_ALL.xml" />
+		<Optional feature="maximize" />
 		<Optional feature="shareable-prefs" />
 		<Require feature="dynamic-height" />
 		<Require feature="minimessage" />
 		<Require feature="setprefs" />
 		<Require feature="tabs" />
+		<Require feature="views" />
 	</ModulePrefs>
 
 	<UserPref name="turmas" datatype="hidden" />
 
-	<Content type="html" view="home, canvas">
+	<Content type="html" view="canvas, default, home, profile">
 		<![CDATA[
 			<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
 			<script type="text/javascript" src="http://gadgets-utfpr.appspot.com/js/comum.js"></script>
