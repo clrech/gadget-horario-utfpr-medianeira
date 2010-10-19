@@ -20,6 +20,7 @@
 		<Optional feature="maximize" />
 		<Optional feature="shareable-prefs" />
 		
+		<Require feature="com.google.gadgets.analytics" />
 		<Require feature="dynamic-height" />
 		<Require feature="minimessage" />
 		<Require feature="setprefs" />
