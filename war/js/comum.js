@@ -131,6 +131,9 @@ function iniciar() {
 	
 	utfpr.listarTurmas();
 	utfpr.atualizarAbas();
+	
+	var ga = new _IG_GA('UA-19177153-3');
+	ga.reportPageview('/horario-utfpr-medianeira/' + gadgets.views.getCurrentView().getName().toLowerCase());
 }
 
 function _IG_Callback(callbackFunction, parameters) {
